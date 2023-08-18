@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c9d425a8e3303110aa7a28b73aca2cc3" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_1108140_hellow_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-08-18 11:41:07</sys_created_on>
+            <sys_id>89d425a83a303110c430dbdf877491c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="05d425a89d303110df6d476c84e33bc4">c9d425a8e3303110aa7a28b73aca2cc3</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-08-18 11:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-08-18 11:41:07</sys_created_on>
+            <sys_id>cdd425a8133031107a06617525f0c2c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="05d425a89d303110df6d476c84e33bc4">c9d425a8e3303110aa7a28b73aca2cc3</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-08-18 11:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-08-18 11:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9d425a8e3303110aa7a28b73aca2cc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="helloWorld" source="x_1108140_hellow_0">eaf2e1e447303110cbf3b477536d435c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="helloWorld">eaf2e1e447303110cbf3b477536d435c</sys_scope>
+            <sys_update_name>sys_ui_section_c9d425a8e3303110aa7a28b73aca2cc3</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-08-18 11:41:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_approval_x_1108140_hellow_0" name="2_custom_portal_approval_x_1108140_hellow_0">05d425a89d303110df6d476c84e33bc4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

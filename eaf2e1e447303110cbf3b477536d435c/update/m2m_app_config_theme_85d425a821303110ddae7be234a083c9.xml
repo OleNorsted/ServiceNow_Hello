@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">c1d425a89d3031100af1f28c09a715c9</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 11:41:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>85d425a821303110ddae7be234a083c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="helloWorld" source="x_1108140_hellow_0">eaf2e1e447303110cbf3b477536d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helloWorld">eaf2e1e447303110cbf3b477536d435c</sys_scope>
+        <sys_update_name>m2m_app_config_theme_85d425a821303110ddae7be234a083c9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:41:08</sys_updated_on>
+        <theme display_value="Light Theme">0dd425a8133031108209ba75573463c9</theme>
+        <ux_app_configuration display_value="helloWorld Config">c5d425a847303110cbf3b477536d436c</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

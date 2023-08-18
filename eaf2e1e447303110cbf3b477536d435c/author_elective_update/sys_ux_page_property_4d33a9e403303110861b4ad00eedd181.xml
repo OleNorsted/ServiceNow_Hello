@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">4d33a9e447303110cbf3b477536d435e</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">5133a9e40f303110d4650ec94d26f1af</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 11:34:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4d33a9e403303110861b4ad00eedd181</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="helloWorld" source="x_1108140_hellow_0">eaf2e1e447303110cbf3b477536d435c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helloWorld">eaf2e1e447303110cbf3b477536d435c</sys_scope>
+        <sys_update_name>sys_ux_page_property_4d33a9e403303110861b4ad00eedd181</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:34:05</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1108140_hellow_0.4d33a9e447303110cbf3b477536d435e.route.chrome_header.5133a9e40f303110d4650ec94d26f1af</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="helloWorld">eaf2e1e447303110cbf3b477536d435c</application>
+        <file_path/>
+        <instance_id>98d9dd9cdbf1ed5c0b9d21c405961965</instance_id>
+        <instance_name>dev166954</instance_name>
+        <name>sys_ux_page_property_4d33a9e403303110861b4ad00eedd181</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">4d33a9e447303110cbf3b477536d435e</page><required_translations>[]</required_translations><route display_value="Login">5133a9e40f303110d4650ec94d26f1af</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-08-18 11:34:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>4d33a9e403303110861b4ad00eedd181</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="helloWorld" source="x_1108140_hellow_0">eaf2e1e447303110cbf3b477536d435c</sys_package><sys_policy/><sys_scope display_value="helloWorld">eaf2e1e447303110cbf3b477536d435c</sys_scope><sys_update_name>sys_ux_page_property_4d33a9e403303110861b4ad00eedd181</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-08-18 11:34:05</sys_updated_on><type>json</type><unique_name>x_1108140_hellow_0.4d33a9e447303110cbf3b477536d435e.route.chrome_header.5133a9e40f303110d4650ec94d26f1af</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1683779880</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>f961890147203110cbf3b477536d4310</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-08-07 12:07:36</sys_created_on>
+        <sys_id>3bc3e92847303110cbf3b477536d4301</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>189cfe543400000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>f7c3e928ca3031105797e60110333701</update_guid>
+        <update_guid_history>f7c3e928ca3031105797e60110333701:-1683779880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 11:36:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>01e9dbba631e4ee2b438bb381bcf1801</sys_id>
+        <sys_metadata>4d33a9e403303110861b4ad00eedd181</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="helloWorld" source="x_1108140_hellow_0">eaf2e1e447303110cbf3b477536d435c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="helloWorld">eaf2e1e447303110cbf3b477536d435c</sys_scope>
+        <sys_scope_delete display_value="">235959628ed34f65abb8944855691881</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_4d33a9e403303110861b4ad00eedd181</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_4d33a9e403303110861b4ad00eedd181">3bc3e92847303110cbf3b477536d4301</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 11:36:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
